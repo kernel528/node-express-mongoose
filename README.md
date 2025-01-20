@@ -10,6 +10,7 @@ This is based on the https://github.com/kernel528/starter-express-mongoose.  Thi
 - HTML/CSS/JavaScript for simple Front-end UI
 
 ### Project Structure
+```markdown
 /frontend
          ├── index.html
          ├── style.css
@@ -33,6 +34,7 @@ This is based on the https://github.com/kernel528/starter-express-mongoose.  Thi
 |__ package.json
 |__ package-lock.json
 |__ README.md
+```
 
 ### Installation
 
