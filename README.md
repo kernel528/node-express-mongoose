@@ -9,6 +9,9 @@ This is based on the https://github.com/kernel528/starter-express-mongoose.  Thi
 - Example schema and models for managing data
 - HTML/CSS/JavaScript for simple Front-end UI
 
+### ToDo
+- Setup frontend as a REACT based app.
+
 ### Project Structure
 ```markdown
 /frontend
